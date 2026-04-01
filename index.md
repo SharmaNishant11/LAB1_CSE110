@@ -21,7 +21,9 @@ My favourite artists are:
 
 
 > Fun fact: The name of my favourite cat is Pickles.  
-![Look at my beautiful pickles](/LAB1_CSE110/Pickles.jpg)
+
+
+![Look at my beautiful pickles](Pickles.jpg)
 
 ## As a programmer:
 
