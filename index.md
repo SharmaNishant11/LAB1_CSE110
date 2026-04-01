@@ -33,7 +33,7 @@ My favourite line of code is:
 `print("Hello World)`
 
 Do you fw pickles?
--[] Yes
+- [ ] Yes
 
 My github page is [Github](https://github.com/SharmaNishant11)
 Check the [read.md](README.md)
