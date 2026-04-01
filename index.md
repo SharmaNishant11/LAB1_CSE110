@@ -36,6 +36,6 @@ Do you fw pickles?
 -[] Yes
 
 My github page is [Github](https://github.com/SharmaNishant11)
-Check the [read.md](/LAB1_CSE110/README.md)
+Check the [read.md](README.md)
 Go back to the [top](#nishants-user-page)
 
